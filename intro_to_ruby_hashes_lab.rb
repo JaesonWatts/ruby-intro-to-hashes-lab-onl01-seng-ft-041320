@@ -4,7 +4,11 @@ end
 
 def actor
   actor = {
+<<<<<<< HEAD
     name: "Dwayne The Rock Johnson"
+=======
+    name: 
+>>>>>>> 88411079b17fc81942994255bc16b25d8b8b9bcf
   }
 end
 
